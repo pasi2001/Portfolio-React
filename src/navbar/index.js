@@ -23,7 +23,7 @@ function Navbar() {
             </li>
             <li className="nav-item">
               <a className="nav-link active" href="#c">
-                Don't Contact Me
+                Contact Me
               </a>
             </li>
           </ul>
